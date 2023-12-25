@@ -20,8 +20,8 @@ Before starting, ensure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kalpits/supercut-creator.git
-   cd supercut-creator
+   git clone https://github.com/kalpits/Supercut-Creator.git
+   cd Supercut-Creator
    ```
 
 2. Install the required Python packages:
