@@ -1,0 +1,8 @@
+[DEFAULT]
+# Paths to the directories containing the video, subtitles, and where to save the output
+VideoFolderPath = /path/to/your/videos
+SubtitlesFolderPath = /path/to/your/subtitles
+OutputFolderPath = /path/to/save/output
+
+# FFMPEG Configuration (if applicable)
+FFMPEGPath = /path/to/ffmpeg
