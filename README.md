@@ -1,6 +1,6 @@
 # Supercut Creator
 
-Supercut Creator is an innovative Python tool designed to automatically generate a supercut video from existing video content, guided by the user's interest. Utilizing advanced Large Language Models (LLMs) for subtitle analysis, it identifies and compiles relevant video segments into a cohesive supercut.
+A tool that crafts personalized supercuts from videos, using Large Language Models to intelligently include only the content you're interested in.
 
 ## Features
 
@@ -20,7 +20,7 @@ Before starting, ensure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kalpits/Supercut-Creator.git
+   git clone https://github.com/kalpit-S/Supercut-Creator.git
    cd Supercut-Creator
    ```
 
