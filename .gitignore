@@ -113,3 +113,15 @@ dmypy.json
 
 # Ignore config.ini
 config.ini
+
+
+# Ignore videofiles and .vtt/.srt
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.mov
+*.wmv
+*.vtt
+*.srt 
+*.webm
